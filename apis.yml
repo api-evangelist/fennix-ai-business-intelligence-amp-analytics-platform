@@ -1,0 +1,51 @@
+name: Fennix - AI Business Intelligence & Analytics Platform
+description: >-
+  Fennix is an AI business intelligence and decision-intelligence platform that unifies databases, documents, and
+  social/marketing data into one AI layer, letting teams ask questions in plain language (English, French, or Arabic)
+  and receive governed, traceable answers with live charts, dashboards, sentiment analysis, anomaly detection, and
+  forecasting instead of building dashboards or writing SQL.
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/fennix-ai-business-intelligence-amp-analytics-platform/refs/heads/main/apis.yml
+created: '2026-09-17'
+modified: '2026-09-17'
+specificationVersion: '0.21'
+tags:
+  - Business Intelligence
+  - Decision Intelligence
+  - Analytics
+  - Natural-Language Query
+  - Data Governance
+  - Sentiment Analysis
+  - Forecasting
+  - Anomaly Detection
+  - MENA
+apis:
+  - name: Fennix
+    description: >-
+      Hosted AI business intelligence SaaS. No public REST/HTTP API is published; the only machine-consumable artifact
+      is an llms.txt content index.
+    humanURL: https://www.fennix.ai
+    baseURL: https://www.fennix.ai
+    tags:
+      - Business Intelligence
+      - Decision Intelligence
+      - Analytics
+      - Natural-Language Query
+      - Data Governance
+      - Sentiment Analysis
+      - Forecasting
+      - Anomaly Detection
+      - MENA
+    properties:
+      - type: LLMsTxt
+        url: https://www.fennix.ai/llms.txt
+      - type: Documentation
+        url: https://www.fennix.ai/platform
+maintainers:
+  - FN: Fennix - AI Business Intelligence & Analytics Platform
+    url: https://www.fennix.ai
+generated:
+  by: apis.io/add
+  model: claude-opus-4-8
+  confidence: 70
+  at: '2026-09-17T15:57:14.440Z'

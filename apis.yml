@@ -13,6 +13,16 @@ tags:
   - Business Intelligence
   - Decision Intelligence
   - Analytics
+  - Natural Language Query
+  - Data Governance
+  - Sentiment Analysis
+  - Forecasting
+  - Anomaly Detection
+  - MENA
+tags_raw:
+  - Business Intelligence
+  - Decision Intelligence
+  - Analytics
   - Natural-Language Query
   - Data Governance
   - Sentiment Analysis
@@ -27,6 +37,16 @@ apis:
     humanURL: https://www.fennix.ai
     baseURL: https://www.fennix.ai
     tags:
+      - Business Intelligence
+      - Decision Intelligence
+      - Analytics
+      - Natural Language Query
+      - Data Governance
+      - Sentiment Analysis
+      - Forecasting
+      - Anomaly Detection
+      - MENA
+    tags_raw:
       - Business Intelligence
       - Decision Intelligence
       - Analytics

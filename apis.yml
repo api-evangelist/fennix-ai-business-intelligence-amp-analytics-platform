@@ -7,7 +7,7 @@ description: >-
 url: >-
   https://raw.githubusercontent.com/api-evangelist/fennix-ai-business-intelligence-amp-analytics-platform/refs/heads/main/apis.yml
 created: '2026-09-17'
-modified: '2026-09-17'
+modified: '2026-10-06'
 specificationVersion: '0.21'
 tags:
   - Business Intelligence
@@ -69,3 +69,6 @@ generated:
   model: claude-opus-4-8
   confidence: 70
   at: '2026-09-17T15:57:14.440Z'
+common:
+  - url: https://www.fennix.ai/blog
+    type: Blog
